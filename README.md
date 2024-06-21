@@ -1,7 +1,5 @@
 Currículum Vitae feito importando um modelo do overleaf, segue abaixo a documentação do original.
-
-
-
+Personagem Fictício de um Astronauta da NASA que se perdeu em Marte
 
 
 
